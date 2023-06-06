@@ -1,1 +1,1 @@
-## Design Patterns em PHP
+## Design Patterns em JS
